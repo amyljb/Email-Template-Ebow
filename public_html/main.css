@@ -17,12 +17,12 @@ header{
     width:600px;
 }
 
-.header-img{
+/*.header-img{
     position:absolute;
     margin-bottom: 0;
     padding:0;
     
-}
+}*/
 
 .header-text{
     font-size: 10px;
@@ -66,11 +66,11 @@ header{
     color:#8b8b8b;
 }
 
-#intro-img{
+/*#intro-img{
     margin-top:0;
     height:205px;
 
-}
+}*/
 
 #text-div{
     width:600px;
@@ -118,9 +118,14 @@ h1{
     margin-top:5px;
 }
 
-.hub-img{
-    height:190px;
+#subscribe-btn:hover{
+    background-color:#902a86;
+    border: 2px solid #902a86;
 }
+
+/*.hub-img{
+    height:190px;
+}*/
 
 #social{
     width:600px;
@@ -141,10 +146,10 @@ h1{
     color: #000;
 }
 
-.social-btns{
+/*.social-btns{
     line-height: 0;
     display:inline-block;
-}
+}*/
 
 .buttons{
     text-align: center; 

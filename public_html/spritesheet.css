@@ -1,0 +1,8 @@
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(img/spritesheet.png);}
+
+.fb-icon {width:173px; height:70px; background-position: -1807px -73px}
+.header {width:600px; height:180px; background-position: -1205px -1px}
+.hub {width:600px; height:189px; background-position: -603px -1px}
+.intro-img {width:600px; height:205px; background-position: -1px -1px}
+.twitter-icon {width:174px; height:70px; background-position: -1807px -1px}
+.youtube-icon {width:173px; height:70px; background-position: -1807px -145px}
