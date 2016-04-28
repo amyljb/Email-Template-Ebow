@@ -57,9 +57,8 @@ header{
 #alignLeft{
     float:left;
     font-size:10px;
-    padding-left:5px;
+    padding-left:10px;
     margin-top:5px;
-    margin-right:5px;
     color:#8b8b8b;
 }
 
@@ -92,12 +91,6 @@ h1{
     font-size:18px;  
 }
 
-/*p{
-    font-size:14px;
-    line-height:25px;
-    color:#626262;
-}*/
-
 .info-text{
     font-size:14px;
     line-height:25px;
@@ -117,7 +110,7 @@ h1{
     background: #000;
     padding: 15px 15px;
     border: 2px solid #000;
-    font-size: 12px;
+    font-size: 14px;
     font-weight: bold;
     text-transform: uppercase;
     display: inline-block;
@@ -142,7 +135,7 @@ h1{
 
 #social-text{
     text-align: left;
-    padding-left:35px;
+    padding-left:40px;
     font-weight:700;
     font-size: 18px;
     color: #000;
@@ -151,28 +144,12 @@ h1{
 .social-btns{
     line-height: 0;
     display:inline-block;
-    /*padding:0;
-    margin:0;
-    float:left;*/
 }
 
 .buttons{
     text-align: center; 
     margin-left:40px;
 }
-
-
-/*.twitter{
-   display:inline-block;
-}
-
-.facebook{ 
-    display:inline-block;
-}
-
-.youtube{
-    display:inline-block;
-}*/
 
 footer{
     background-color:#2e2e2e;
