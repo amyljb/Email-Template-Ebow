@@ -74,7 +74,7 @@ header{
 
 #text-div{
     width:600px;
-    margin:0 auto;
+    margin:-10px auto;
     background-color: white;
     padding-top:20px;
     padding-bottom:30px;
@@ -121,6 +121,7 @@ h1{
     text-transform: uppercase;
     display: inline-block;
     text-align: center;
+    margin-top:5px;
 }
 
 .hub-img{
@@ -129,7 +130,7 @@ h1{
 
 #social{
     width:600px;
-    /*margin:0 auto;*/
+    margin-top:-5px;
     background-color: white;
     padding-top:15px;
     height:120px;
@@ -144,6 +145,19 @@ h1{
     font-weight:700;
     font-size: 18px;
     color: #000;
+}
+
+.twitter{
+    margin-left:0;
+    margin-right:0;
+}
+
+.facebook{  
+   margin-right:0;
+}
+
+.youtube{
+    margin-left:0;
 }
 
 footer{
