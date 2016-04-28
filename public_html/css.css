@@ -12,6 +12,11 @@ body{
     
 }
 
+header{
+    height:180px;
+    width:600px;
+}
+
 .header-img{
     position:absolute;
     margin-bottom: 0;
@@ -63,6 +68,7 @@ body{
 
 #intro-img{
     margin-top:0;
+    height:205px;
 
 }
 
@@ -72,6 +78,7 @@ body{
     background-color: white;
     padding-top:20px;
     padding-bottom:30px;
+    height:300px;
     
 }
 
@@ -116,13 +123,19 @@ h1{
     text-align: center;
 }
 
+.hub-img{
+    height:190px;
+}
+
 #social{
     width:600px;
     /*margin:0 auto;*/
     background-color: white;
     padding-top:15px;
+    height:120px;
     padding-bottom:50px;
     text-align: center;
+    display:inline-block;
 }
 
 #social-text{
