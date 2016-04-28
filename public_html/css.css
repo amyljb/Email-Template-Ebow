@@ -1,0 +1,167 @@
+body{
+    background-color: #f9d00d;
+    font-family: 'Arial', sans-serif;
+    display:block;
+    margin-top: 0;
+    
+}
+
+#page-content{
+    width:600px;
+    margin:0 auto;
+    
+}
+
+.header-img{
+    position:absolute;
+    margin-bottom: 0;
+    padding:0;
+    
+}
+
+.header-text{
+    font-size: 10px;
+    color: #8b8b8b;
+    z-index: 100;
+    position: absolute;
+    clear:both;
+    margin-top: 0;
+}
+
+#intro-text{
+    z-index: 100;
+    position: absolute;
+    color:white;
+    float:left;
+    font-size:30px;
+    width:200px;
+    padding-left:350px;
+    padding-top:20px;
+    line-height:35px;
+    font-weight: bold;
+}
+
+#alignRight{
+    float:right;
+    font-size:10px;
+    padding-left:365px;
+    color:#8b8b8b;
+}
+
+#alignLeft{
+    float:left;
+    font-size:10px;
+    padding-left:5px;
+    margin-top:5px;
+    margin-right:0;
+    color:#8b8b8b;
+}
+
+#clickHere{
+    color:#8b8b8b;
+}
+
+#intro-img{
+    margin-top:0;
+
+}
+
+#text-div{
+    width:600px;
+    margin:0 auto;
+    background-color: white;
+    padding-top:20px;
+    padding-bottom:30px;
+    
+}
+
+#text-div-inner{
+    width:520px;
+    margin-left:40px;
+}
+
+h1{
+    font-size:18px;  
+}
+
+/*p{
+    font-size:14px;
+    line-height:25px;
+    color:#626262;
+}*/
+
+.info-text{
+    font-size:14px;
+    line-height:25px;
+    color:#626262;
+}
+
+#topLine{
+    color:#666666;
+}
+
+#bottomLine{
+    color:#00a99d;
+}
+
+#subscribe-btn{
+    color: #FFF;
+    background: #000;
+    padding: 15px 15px;
+    border: 2px solid #000;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    display: inline-block;
+    text-align: center;
+}
+
+#social{
+    width:600px;
+    /*margin:0 auto;*/
+    background-color: white;
+    padding-top:15px;
+    padding-bottom:50px;
+    text-align: center;
+}
+
+#social-text{
+    text-align: left;
+    padding-left:40px;
+    font-weight:700;
+    font-size: 18px;
+    color: #000;
+}
+
+footer{
+    background-color:#2e2e2e;
+    margin-top: 0;   
+    text-align:center;    
+    padding-top:15px;
+    padding-bottom: 15px;
+    
+}
+
+.footer-text{
+    color:white;
+    font-size:12px;
+    line-height: 10px;
+    
+}
+
+#email {
+    
+    text-decoration: none;
+    color: #0fa5b4;
+    margin-top:0;
+    font-size:14px;
+}
+
+#footer-bar{
+    width:600px;
+    height:20px;
+    background: -moz-linear-gradient(top, rgba(98,98,98,1) 0%, rgba(14,14,14,1) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, rgba(98,98,98,1) 0%,rgba(14,14,14,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    margin-bottom: 0;
+
+}
